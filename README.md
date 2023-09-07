@@ -1,2 +1,2 @@
-# EDA-Spotify-2023
-Análise exploratória dos dados das músicas mais tocadas no ano de 2023 utilizando NumPy e Matplotlib.
+# EDA-doacoes-numpy
+Análise exploratória de dados sobre uma base de doações para uma instituição de pesquisa sobre o alcoolismo.
